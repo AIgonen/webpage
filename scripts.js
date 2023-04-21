@@ -3,5 +3,5 @@ function myFunction() {
 }
 
 function alertFunction() {
-  alert("Hi stranger!");
+  alert("Welcome!");
 }
